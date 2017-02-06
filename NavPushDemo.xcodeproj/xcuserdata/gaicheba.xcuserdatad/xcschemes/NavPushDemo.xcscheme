@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1FD0BD341E0D009D00F89A2B"
-               BuildableName = "presentAnimationDemo.app"
-               BlueprintName = "presentAnimationDemo"
-               ReferencedContainer = "container:presentAnimationDemo.xcodeproj">
+               BlueprintIdentifier = "1F4969861E0BB308008A7DFF"
+               BuildableName = "NavPushDemo.app"
+               BlueprintName = "NavPushDemo"
+               ReferencedContainer = "container:NavPushDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FD0BD341E0D009D00F89A2B"
-            BuildableName = "presentAnimationDemo.app"
-            BlueprintName = "presentAnimationDemo"
-            ReferencedContainer = "container:presentAnimationDemo.xcodeproj">
+            BlueprintIdentifier = "1F4969861E0BB308008A7DFF"
+            BuildableName = "NavPushDemo.app"
+            BlueprintName = "NavPushDemo"
+            ReferencedContainer = "container:NavPushDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FD0BD341E0D009D00F89A2B"
-            BuildableName = "presentAnimationDemo.app"
-            BlueprintName = "presentAnimationDemo"
-            ReferencedContainer = "container:presentAnimationDemo.xcodeproj">
+            BlueprintIdentifier = "1F4969861E0BB308008A7DFF"
+            BuildableName = "NavPushDemo.app"
+            BlueprintName = "NavPushDemo"
+            ReferencedContainer = "container:NavPushDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FD0BD341E0D009D00F89A2B"
-            BuildableName = "presentAnimationDemo.app"
-            BlueprintName = "presentAnimationDemo"
-            ReferencedContainer = "container:presentAnimationDemo.xcodeproj">
+            BlueprintIdentifier = "1F4969861E0BB308008A7DFF"
+            BuildableName = "NavPushDemo.app"
+            BlueprintName = "NavPushDemo"
+            ReferencedContainer = "container:NavPushDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

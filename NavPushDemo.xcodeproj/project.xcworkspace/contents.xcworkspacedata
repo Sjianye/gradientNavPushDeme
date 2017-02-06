@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:presentAnimationDemo.xcodeproj">
+      location = "self:NavPushDemo.xcodeproj">
    </FileRef>
 </Workspace>

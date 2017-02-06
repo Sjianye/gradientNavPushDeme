@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>presentAnimationDemo.xcscheme</key>
+		<key>NavPushDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1FD0BD341E0D009D00F89A2B</key>
+		<key>1F4969861E0BB308008A7DFF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
